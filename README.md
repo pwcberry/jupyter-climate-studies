@@ -18,4 +18,4 @@ jupyter notebook
 
 ## Provenance of the Data
 
-The meteorological data used in these studies is downloaded from the [Bureau of Meterology](https://www.bom.gov.au/climate/data/).
+The meteorological data used in these studies is downloaded from the [Bureau of Meteorology](https://www.bom.gov.au/climate/data/).
